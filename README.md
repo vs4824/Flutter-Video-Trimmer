@@ -317,7 +317,7 @@ class _TrimmerViewState extends State<TrimmerView> {
       ),
     );
   }
-}
+} 
 ```
 
 
