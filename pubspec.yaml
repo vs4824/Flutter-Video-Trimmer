@@ -1,0 +1,24 @@
+name: flutter_video_trimmer
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  video_trimmer: ^1.1.3
+  file_picker: ^4.6.0
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
